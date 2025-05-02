@@ -1,0 +1,1 @@
+/Users/sindre/Library/Mobile Documents/com~apple~CloudDocs/Files/obsidian/notes/00 - Inbox/Kubernetes - kubecolor.md
