@@ -1,4 +1,3 @@
-#kubernetes 
 # kubectx
 - When you work with multiple clusters or different user contexts, switching between them using plain `⁠kubectl config use-context` can be tedious.
 - `kubectx` simplifies this with a short command and tab completion.

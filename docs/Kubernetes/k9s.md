@@ -1,4 +1,3 @@
-#kubernetes 
 # K9S
 ## What is k9s?
 -   A terminal-based UI tool that helps you **navigate, observe, and manage** your Kubernetes clusters interactively.

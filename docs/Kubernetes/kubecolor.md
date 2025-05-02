@@ -1,4 +1,3 @@
-#kubernetes 
 # kubecolor
 - ⁠`kubectl` output can be hard to scan quickly, especially when you have many pods or resources.
 - ⁠`kubecolor` adds syntax highlighting and colors to the output, improving visibility.
